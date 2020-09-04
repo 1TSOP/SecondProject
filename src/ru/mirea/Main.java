@@ -11,6 +11,5 @@ public class Main {
         Scanner skan = new Scanner(System.in);
         a=skan.nextInt();
         System.out.println(a+1);
-        b=a;
-    }
+            }
 }
